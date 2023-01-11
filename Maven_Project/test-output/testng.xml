@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="default test">
-	<test name="testA">
-	<Classes>
-	<class name="p1.Class1"></class>
-	<class nmae="p2.Class2"></class>
-	</Classes>
-	</test>
-</suite>
